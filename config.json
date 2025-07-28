@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     },
     "semao": {
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "api": "https://api.yikanapi.com/api.php/provide/vod",
       "name" "色猫"
     }
   }
