@@ -87,7 +87,7 @@
     },
     "semao": {
       "api": "https://api.yikanapi.com/api.php/provide/vod",
-      "name" "色猫"
+      "name": "色猫"
     }
   }
 }
