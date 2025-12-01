@@ -89,5 +89,12 @@
       "api": "https://api.yikanapi.com/api.php/provide/vod",
       "name": "色猫"
     }
+    "custom_category": [
+    {
+      "name": "成人",
+      "type": "movie",
+      "query": "成人"
+    }
+  ]
   }
 }
